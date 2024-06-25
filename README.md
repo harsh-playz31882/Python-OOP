@@ -1,2 +1,2 @@
 # Python-
-small quiet helpful projects
+some useful scripts and projects
